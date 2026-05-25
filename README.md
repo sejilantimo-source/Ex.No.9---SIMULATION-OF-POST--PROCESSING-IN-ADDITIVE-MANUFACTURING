@@ -34,8 +34,8 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+<img width="828" height="816" alt="image" src="https://github.com/user-attachments/assets/772e00c4-39ba-4292-a472-00bf9c5ec7b1" />
+
 
 ## UV Curing of 3D printed part
 ![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
@@ -46,9 +46,10 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+<img width="1261" height="522" alt="image" src="https://github.com/user-attachments/assets/70ba0b64-d64c-46db-b170-2e4d228b32b7" />
 
-### Name:
-### Register Number:
+### Name:SEJILAN S
+### Register Number: 212225230256
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
